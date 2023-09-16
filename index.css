@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+body{
+    background-color: #EFEFEF;
+    border-radius: 100px;
+}
+/* .container-fluid{
+    width: 95%;
+} */
+.borders img{
+    border: 1px solid green;
+    border-radius: 20px;
+    border: none;
+}
+.borders{
+    color: orange;
+    font-family: monospace;
+}
+#git{
+     font-size: 40px; 
+     float: right;
+     font-family:monospace;
+}
+#head{
+    height: 100px;
+
+}
+#git a{
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+.bodied{
+    font-family: monospace;
+}
+.form-control{
+    height: 60px;
+}
+.float-right a{
+    font-size: 70px;
+    list-style-type: none;
+    text-decoration: none;
+    color: black;
+}
+#details img{
+    border-radius: 80px;
+}
+.backgrounds{
+    text-align: center;
+    /* height: 300px; */
+}
+.something{
+    text-align: center;
+}
+#sum{
+    /* height: 480px; */
+    background-color: #ffff;
+}
+#handle{
+    text-align: center;
+}
+#open{
+    /* height: 300px; */
+    text-align: center;
+    background-color: white;
+}
+#opens{
+    /* height: 300px; */
+    text-align: center;
+    background-color: white;
+}
+#did{
+    border: solid blue;
+    background-color: blue;
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+}
+#dip{
+    border: solid gray;
+    background-color: gray;
+    width: 55%;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+}
+#dips{
+    border: solid gray;
+    background-color: gray;
+    width: 90%;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+}
+#dipss{
+    border: solid plum;
+    background-color: plum;
+    width: 90%;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+}
+#dipsss{
+    border: solid peru;
+    background-color: peru;
+    width: 99%;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+}
+#listed{
+    text-align: center;
+    background-color: white;
+}
+#listed input{
+    border-radius: 10px;
+    width: 60%;
+}
+/* #peaky{
+    display: inline-flex;
+    gap: 30px;
+} */
+#sector a{
+    list-style-type: none;
+    text-decoration: none;
+}
